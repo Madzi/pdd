@@ -1,0 +1,65 @@
+<Puzzles>
+  <puzzle>
+    <type>TODO</type>
+    <timestamp>1772488135642097348</timestamp>
+    <description>test sources</description>
+    <file>main.go</file>
+    <status>OPEN</status>
+  </puzzle>
+  <puzzle>
+    <type>TODO</type>
+    <timestamp>1772488261058242729</timestamp>
+    <description>or FIXME</description>
+    <file>README.md</file>
+    <status>OPEN</status>
+  </puzzle>
+  <puzzle>
+    <type>TODO</type>
+    <timestamp>1772486223922468279</timestamp>
+    <description>path/to/file — description</description>
+    <file>README.md</file>
+    <status>OPEN</status>
+  </puzzle>
+  <puzzle>
+    <type>TODO</type>
+    <timestamp>1772488711993091361</timestamp>
+    <description>или FIXME:</description>
+    <file>parser/parser.go</file>
+    <status>OPEN</status>
+  </puzzle>
+  <puzzle>
+    <type>TODO</type>
+    <timestamp>1772488261057134868</timestamp>
+    <description>description</description>
+    <file>AGENTS.md</file>
+    <status>OPEN</status>
+  </puzzle>
+  <puzzle>
+    <type>TODO</type>
+    <timestamp>1772488711992532061</timestamp>
+    <description>improve error handling</description>
+    <file>README.md</file>
+    <status>OPEN</status>
+  </puzzle>
+  <puzzle>
+    <type>TODO</type>
+    <timestamp>1772488261057185904</timestamp>
+    <description>[timestamp] description</description>
+    <file>AGENTS.md</file>
+    <status>OPEN</status>
+  </puzzle>
+  <puzzle>
+    <type>FIXME</type>
+    <timestamp>1772488261057145147</timestamp>
+    <description>description</description>
+    <file>AGENTS.md</file>
+    <status>OPEN</status>
+  </puzzle>
+  <puzzle>
+    <type>TODO</type>
+    <timestamp>1772487140120457593</timestamp>
+    <description>improve error handling</description>
+    <file>README.md</file>
+    <status>OPEN</status>
+  </puzzle>
+</Puzzles>
